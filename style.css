@@ -1,0 +1,12 @@
+.form-label .form-control{
+    width: 50px;
+}
+
+body{
+    margin: 50px;
+    color: white;
+}
+
+.btn{
+    margin: 25px 0;
+}
